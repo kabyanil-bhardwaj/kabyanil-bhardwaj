@@ -1,22 +1,23 @@
 # Kabyanil Bharadwaj 👋  
+Independent Full-Stack Developer
 
-AI, Web & App Developer | UI/UX Designer | System Builder  
+I design and develop modern, performance-focused digital products — from business websites to scalable web applications.
 
-I build complete digital products – from design to deployment – including websites, applications, and AI-powered systems.  
-My focus is on creating intelligent, scalable, and practical solutions that solve real-world problems.
+My work combines clean architecture, thoughtful UI/UX, and intelligent automation to build systems that are structured, efficient, and built to last.
 
-### 🔧 Skills
-- Web Development (HTML, CSS, JavaScript)
-- App Development
-- Firebase & Cloud Hosting
-- UI/UX Design
-- AI Tools & Automation
-- Python (Learning)
+### 🔧 Core Stack
+• Next.js / React
+• JavaScript / TypeScript
+• Firebase & Cloud Infrastructure
+• Tailwind CSS
+• Framer Motion
+• AI-assisted development workflows
 
-### 🎯 Current Focus
-- Building strong AI-powered web apps  
-- Creating automation systems  
-- Developing real-world projects & digital products  
+### 🎯 Focus Areas
+• Scalable web platforms
+• Performance optimization
+• Conversion-focused business websites
+• AI-powered automation systems
 
-📍 Assam, India 🇮🇳  
-🌱 Always learning. Always building.
+📍 Assam, India  
+Confident. Structured. Results-oriented.

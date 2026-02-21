@@ -1,5 +1,5 @@
 # Kabyanil Bharadwaj 👋  
-Independent Full-Stack Developer
+Full-Stack Developer
 
 I design and develop modern, performance-focused digital products — from business websites to scalable web applications.
 
@@ -19,5 +19,4 @@ My work combines clean architecture, thoughtful UI/UX, and intelligent automatio
  • Conversion-focused business websites
  • AI-powered automation systems
 
-📍 Assam, India  
-Confident. Structured. Results-oriented.
+📍 Assam, India.

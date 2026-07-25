@@ -1,6 +1,6 @@
 # Kabyanil Bharadwaj 👋
 
-Full-Stack Developer
+Web Developer
 
 I design and develop modern digital products — from business websites to scalable web applications — with a strong focus on performance, clean architecture, and thoughtful UI/UX.
 

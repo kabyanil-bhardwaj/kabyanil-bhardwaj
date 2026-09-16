@@ -1,15 +1,17 @@
 # Kabyanil Bharadwaj 👋
 
-Web Developer
+### Software · Systems · Ongoing Experiments
 
-I design and develop modern digital products — from business websites to scalable web applications — with a strong focus on performance, clean architecture, and thoughtful UI/UX.
+I build websites, applications, and digital tools — mostly around things I find useful, interesting, or worth exploring.
 
-### Core Stack
+My work ranges from business websites and web applications to automation, AI-assisted development, and experiments across software and technology.
 
-Next.js / React · JavaScript / TypeScript · Firebase & Cloud Infrastructure · Tailwind CSS · Framer Motion · AI-supported development workflows
+### Currently Exploring
 
-### Focus Areas
+* Full-stack web development
+* AI & automation
+* Software systems
+* Interactive experiments
+* Science × technology
 
-Scalable web platforms · Performance optimization · Conversion-focused business websites · Automation systems
-
-Assam, India
+Based in Assam, India

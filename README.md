@@ -2,16 +2,17 @@
 
 ### Software · Systems · Ongoing Experiments
 
-I build websites, applications, and digital tools — mostly around things I find useful, interesting, or worth exploring.
+Full-stack developer from Assam, India. I build fast, SEO-friendly websites and web apps with Next.js/React and Supabase/Firebase.
 
-My work ranges from business websites and web applications to automation, AI-assisted development, and experiments across software and technology.
+## Live work
+- sasankajyotisarma.in: author website with admin panel (Firebase Auth + Realtime Database). Client project, code private.
+- apuherbal.in: premium brand website, 100+ products. Client project, code private.
+- purbii.web.app: interactive brand website concept.
+- lunaterra-kitchen.netlify.app: premium restaurant website idea.
+- lumiere-perfumes.netlify.app: luxury perfume brand website concept.
+- Chladni Visualizer: physics simulation, in this profile.
 
-### Currently Exploring
+## Tools
+Next.js · React · TypeScript · Firebase · REST APIs · Git · Netlify/Vercel
 
-* Full-stack web development
-* AI & automation
-* Software systems
-* Interactive experiments
-* Science × technology
-
-Based in Assam, India
+Portfolio: kabyanil.netlify.app | Email: kabyanilbharadwaj@gmail.com
